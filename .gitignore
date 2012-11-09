@@ -1,0 +1,9 @@
+# compiled object files
+*.o
+
+# vim temp files
+.*swp
+
+# ./configure output
+config.mk
+.config.log
